@@ -3,14 +3,14 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://korysergey55.github.io/goit-js-hw-13-image-finder",
+  "homepage": "https://korysergey55.github.io/image-finder-class",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-template/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/korysergey55/goit-js-hw-13-image-finder"
+    "url": "git+https://github.com/korysergey55/image-finder-class"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",

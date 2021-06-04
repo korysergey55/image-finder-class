@@ -14,7 +14,7 @@ export default class PixabayApiServise {
         if (response.ok)
           return response.json()
       })
-      .catch(response => console.log(response));
+      .catch(reject => console.log(reject));
   }
 
   resetPage() {

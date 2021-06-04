@@ -30,7 +30,6 @@ function searchForm(event) {
 function getImages(shouldScroll) {
   pixabayApiServise.fetchImages()
     .then(images => {
-      
       const carts = images.hits;
       markupImages(carts);
 
